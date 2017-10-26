@@ -1,2 +1,2 @@
 # webpack20171026
-none
+把requirejs改为webpack封装
